@@ -26,7 +26,7 @@ Students interested in joining the lab are encouraged to apply for external fell
 - a description of possible graduate research topics and approaches highlighting why the Buckley group would be a good fit for this research
 - a description of career goals
 
-Undergraduates and research technicians
+## Undergraduates and research technicians
 There are numerous research and employment opportunities for motivated undergraduate students to both conduct independent projects and to assist in ongoing research conducted by members of our research group. Opportunities include assisting in field research and lab physiology, assembling and analyzing databases, and advancing models. Interested undergraduates should contact Lauren by email and include a brief summary of research interests and experience. We have opportunities for students familar with computational infrastructure (cloud computing and Docker).
 
 2025 Summer Field Work Opportunities
