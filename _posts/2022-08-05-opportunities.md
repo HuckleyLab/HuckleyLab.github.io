@@ -5,14 +5,13 @@ categories: facts
 tags: [sample]
 image: header_hopper.png
 ---
-We are recruiting undergraduates and a research technician. See below.
 
 ## Postdocs
-Potential postdocs interested in pursuing funding together are encouraged to contact Lauren.  One excellent opportunity is the [Washington Research Foundation postdoc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/).
+Potential postdocs interested in pursuing funding together are encouraged to contact Lauren.  One excellent opportunity is the [Washington Research Foundation postdoc program](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/). The current [NSF Postdoctoral Research Fellowships in Biology](https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology) focused on the integration of Artificial Intelligence (AI) and biology is well aligned with our research.
 
 ## Graduate Students
-- We primarily accept graduate students that have previous experience working with the group to ensure a mutual fit with the group and research questions before commiting to graduate study. Please get in touch if you are interested in exploring technician opportunities.
-- The group is especially interested in recruiting students with quantitative skills (e.g., mathematics or computer science training, experience with a computing language such as R).  We also prioritize students interested in contributing to our grasshopper or butterfly resurvey project aimed at understanding ecological and evolutionary responses to recent climate change.
+- We primarily accept graduate students that have previous experience working with the group or our collaborators to ensure a mutual fit with the group and research questions before commiting to graduate study. Please get in touch if you are interested in exploring technician opportunities.
+- The group is especially interested in recruiting students with quantitative skills (e.g., mathematics or computer science training, experience with a computing language such as R).  We also prioritize students interested in contributing to our butterfly resurvey project aimed at understanding ecological and evolutionary responses to recent climate change.
 - Please include “POTENTIAL GRAD” in the subject line of any email to Lauren, so that she can better keep track of inquiries.
 
 Most research in the group concerns functional ecology, evolution, and biogeography in changing environments, a broad and complex topic leaving lots of room for creative and interdisciplinary approaches. Students are encouraged to develop independent projects in collaboration with me, but the projects are likely to be most successful when they align with broader lab projects. One focus of the lab is coupling theoretical and quantitative tools with data collection. Combining multiple approaches is central to tackling questions of environmental change and a primary benefit of choosing to conduct graduate research in the Buckley lab. Student projects will generally span two of the following three approaches: theory, ecoinformatic analysis, and field or lab work. Lauren's goal as a mentor is to ensure students learn how to identify interesting questions, develop feasible approaches, and process and synthesize information to address the question. See the [how_we_work repository](https://github.com/HuckleyLab/how_we_work) on our lab GitHub account to learn more about our lab workflow and policies.
@@ -31,6 +30,6 @@ There are numerous research and employment opportunities for motivated undergrad
 
 <b>2025 Summer Field Work Opportunities</b>
 
-The Buckley Lab has filled all of our available paid opportunities for the summer 2025 field season. If you remain interested in working with our group, we welcome you to fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc-0zBcFnXVw5QezOEhK9thblsBbiF0qR78DjP5_lhLUiEXvw/viewform?usp=header) to express interest in volunteering. We will contact you if opportunities become available.
+The Buckley Lab has filled all of our available paid opportunities for the summer 2026 field season. If you remain interested in working with our group, we welcome you to fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc-0zBcFnXVw5QezOEhK9thblsBbiF0qR78DjP5_lhLUiEXvw/viewform?usp=header) to express interest in volunteering. We will contact you if opportunities become available.
 
 

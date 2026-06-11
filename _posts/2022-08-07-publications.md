@@ -10,6 +10,8 @@ image: hopper_sm.png
 
 ## Select publications by project
 ### TrEnCh Project
+Buckley LB, Briones Ortiz BA, Caruso I, John A, Levy O, Meyer AV, Riddell EA, Sakairi Y, Simonis JL. 2023. TrenchR: An R package for modular and accessible microclimate and biophysical ecology. PLoS Climate 2(8):e0000139.
+
 Meyer AV, Sakairi Y, Kearney MR, and Buckley LB. 2023. A guide and tools for selecting and accessing microclimate data for mechanistic niche modeling. [Ecosphere](https://doi.org/10.1002/ecs2.4506)
 
 Buckley LB, Cannistra AF, and John A. 2018. Leveraging organismal biology to forecast the effects of climate change. Integrative and Comparative Biology 58:38-51. 
@@ -17,6 +19,8 @@ Buckley LB, Cannistra AF, and John A. 2018. Leveraging organismal biology to for
 Buckley LB, Arakaki AJ, Cannistra AF, Kharouba HM, and Kingsolver JG. 2017. Insect development, thermal plasticity and fitness implications in changing, seasonal environments. Integrative and Comparative Biology 57: 988-998.
 
 ### CORP Butterfly Resurvey Project
+Buckley LB, Kingsolver JG. 2026. Functional resurveys and models reveal the interplay of plasticity and evolution of Pierid butterflies in response to recent climate change. The American Naturalist 207(1):156-68.
+
 Buckley LB and Kingsolver JG. 2019. Environmental variability shapes evolution, plasticity, and biogeographic responses to climate change. Global Ecology and Biogeography 28:1456-1468.
 
 MacLean HJ, Nielsen ME, Kingsolver JG, and Buckley LB. 2019. Using museum specimens to track morphological shifts through climate change. Philosophical Transactions of the Royal Society B 374:20170404.
@@ -30,6 +34,8 @@ MacLean HJ, Kingsolver JG, and Buckley LB. 2016. Historical changes in thermoreg
 Kingsolver JG and Buckley LB. 2015 Climate variability slows evolutionary responses of Colias butterflies to recent climate change. Proceedings of the Royal Society B 282: 20142470.
 
 ### Grasshopper Resurvey Project
+Nufio CR, Sheffer MM, Smith JM, Troutman MT, Bawa SJ, Taylor ED, Schoville SD, Williams CM, Buckley LB. 2025. Insect size responses to climate change vary across elevations according to seasonal timing. PLoS Biology 23(1):e3002805.
+
 Buckley LB, Graham SI, and Nufio CR. 2021. Grasshopper species’ seasonal timing underlies shifts in phenological overlap in response to climate gradients, variability, and change. Journal of Animal Ecology 90:1252-1263.
 
 Smith JM, Telemeco RS+, Ortiz BAB, Nufio CR, and Buckley LB.  2021. High-Elevation Populations of Montane Grasshoppers Exhibit Greater Developmental Plasticity in Response to Seasonal Cues. Frontiers in Physiology 12: 738992.
@@ -62,6 +68,8 @@ Buckley LB, Urban MC, Angilletta MJ, Crozier LG, Rissler LJ, and Sears MW. 2010.
 Buckley LB. 2008. Linking traits to energetics and population dynamics to predict lizard ranges in changing environments. American Naturalist 171:E1-E19.
 
 ### Thermal sensitivity
+Buckley LB, Huey RB, Kingsolver JG. 2022. Asymmetry of thermal sensitivity and the thermal risk of climate change. Global Ecology and Biogeography 31(11):2231-44.
+
 Buckley LB. 2022. Temperature-sensitive development shapes insect phenological responses to climate change. Current Opinion in Insect Science: 100897.
 
 Buckley LB and Kingsolver JG. 2021. Evolution of thermal sensitivity in variable and changing environments. Annual Review of Ecology and Evolution 52: 563-586.
@@ -69,6 +77,10 @@ Buckley LB and Kingsolver JG. 2021. Evolution of thermal sensitivity in variable
 Kingsolver JG and Buckley LB. 2020. Ontogenetic variation in thermal sensitivity shapes insect ecological responses to climate change. Current Opinion in Insect Science 41:17-24.
 
 ### Thermal extremes
+Bullard GW, Buckley LB, Kingsolver JG. 2026. Incorporating variation in death times improves predictions of ectotherm responses to stressful temperatures. PLoS biology 24(5):e3003623.
+
+Buckley LB, Huey RB, Ma CS. 2025. How damage, recovery, and repair alter the fitness impacts of thermal stress. Integrative and Comparative Biology 65(4):1061-75.
+
 Kingsolver JG, and Buckley LB. 2017. Quantifying thermal extremes and biological variation to predict evolutionary responses to changing weather and climate. Philosophical Transactions of the Royal Society B 372: 20160147. 
 
 Buckley LB and Huey RB. 2016. Temperature extremes: geographic patterns, recent changes, and implications for organismal vulnerabilities. Global Change Biology 22:3829-3842.
