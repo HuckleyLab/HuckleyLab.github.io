@@ -27,4 +27,4 @@ We’ve taken most of the images using an inexpensive FLIR ONE camera attached t
 We’ve developed a series of [tutorials](https://bookdown.org/huckley/Physical_Processes_In_Ecosystems/) aimed at graduate students interested in biophysical ecology. The tutorials originate from a 1979 course at UW entitled “Physical Prcoesses in Ecosystems” and Mike Kearney, U Melbourne, contributed additional tutorials. The tutorials align with the TrenchR package.
 
 ## Undergraduate course resources
-Professor Buckley teaches a course in Physiological Ecology and Evolution as well as a course in Climate Change Biology. We aim to collaborative develop course resources.  
+Professor Buckley teaches a course in Physiological Ecology and Evolution as well as a course in Climate Change Biology. We aim to collaboratively develop course resources.  
